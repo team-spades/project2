@@ -28,7 +28,9 @@ body {
   overflow-x: hidden;
   padding-top: 20px;
 }
-
+.sidenav a{
+  font-family: 'Merienda';
+}
 .sidenav a, .dropdown-btn {
   padding: 6px 8px 6px 16px;
   font-size: 18px;
@@ -44,7 +46,7 @@ body {
 }
 
 .sidenav a:hover, .dropdown-btn:hover {
-  color: white;
+  color: #226993;
 }
 
 .main {
