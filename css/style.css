@@ -67,3 +67,9 @@ section {
   margin: 0 1.5%;
   width: 63%;
 }
+
+h3 {
+  font-family: 'News-Cycle';
+  text-align: center;
+  font-size: 18px;
+}
