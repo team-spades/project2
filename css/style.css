@@ -45,7 +45,11 @@ body {
   outline: none;
 }
 
-.sidenav a:hover, .dropdown-btn:hover {
+.sidenav a:hover {
+  color: white;
+}
+
+.dropdown-btn:hover {
   color: #226993;
 }
 
