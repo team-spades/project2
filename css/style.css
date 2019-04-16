@@ -7,7 +7,7 @@ body {
   font-family: 'Merienda', 'Comfortaa', 'News+Cycle', sans-serif;
   font-size: 1em;
   text-decoration: none;
-  text-align: right;
+  text-align: left;
 }
 
 .sidenav {
@@ -63,7 +63,7 @@ body {
 }
 
 section {
-  float: right;
+  float: left;
   margin: 0 1.5%;
   width: 63%;
 }
