@@ -6,6 +6,7 @@ html {
 body {
   font-family: 'Merienda', 'Comfortaa', 'News+Cycle', sans-serif;
   font-size: 1em;
+  text-decoration: none;
 }
 
 .sidenav {
