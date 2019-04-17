@@ -99,7 +99,7 @@ h1 {
 }
 
 h2 {
-  margin: 5px 20px 5px;
+  margin: 5px 40px 5px;
   float: left;
   font-size: 35px;
   font-family: 'News+Cycle';
@@ -108,7 +108,7 @@ h2 {
 
 h3 {
   font-family: 'News+Cycle';
-  text-align: left;
+  margin-top: 30px;
   font-size: 36px;
 }
 /*Form*/
