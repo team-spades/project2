@@ -105,3 +105,13 @@ h3 {
   font-size: 18px;
 }
 
+textarea {
+  height: 100px;
+  width: 100%;
+}
+
+.info {
+  margin-top: 5px;
+  font-family: 'Merienda';
+}
+
