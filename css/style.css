@@ -87,9 +87,11 @@ body {
 
 section {
   float: right;
-  margin: 0 1.5%;
+  margin: 10px 0 10px 190px;
   width: 63%;
   border: 5px solid #2b92ce; 
+  background-color: black;
+  opacity: 0.85;
 }
 
 h1 { 
@@ -124,6 +126,7 @@ textarea {
 .info {
   margin-top: 5px;
   font-family: 'Merienda';
+  color: white;
 }
 
 .contactus {
