@@ -172,7 +172,7 @@ textarea {
   padding: 15px 30px;
   display: inline-block;
   text-decoration: none;
-  align:center;
+  vertical-align: middle;
 }
   
 
