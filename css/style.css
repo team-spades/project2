@@ -50,7 +50,7 @@ body {
 }
 
 .dropdown-btn:hover {
-  color: white;
+  color: black;
 }
 
 .main {
@@ -98,6 +98,7 @@ h1 {
   float: left;
   font-size: 45px;
   font-family: 'Comfortaa';
+  color: white;
 }
 
 h2 {
@@ -106,7 +107,7 @@ h2 {
   font-size: 28px;
   font-family: 'Merienda';
   font-weight: bold;
-  color: #258c10;
+  color: black;
 }
 
 h3 {
