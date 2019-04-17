@@ -89,8 +89,8 @@ section {
   float: left;
   margin: 10px 0 10px 175px;
   width: 80%;
-  border: 5px solid #0a680c;
-  background-color: #2b92ce; 
+  border: 5px solid black;
+  background-color: #bbe5f7; 
   opacity: 0.85;
 }
 
@@ -130,7 +130,5 @@ textarea {
   color: white;
 }
 
-.contactus {
-  border: 5px double #2b92ce;
-}
+
 
