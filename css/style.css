@@ -104,10 +104,10 @@ h3 {
   text-align: center;
   font-size: 18px;
 }
-
+/*Form*/
 textarea {
   height: 100px;
-  width: 100%;
+  width: 45%;
 }
 
 .info {
