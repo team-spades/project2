@@ -25,6 +25,7 @@ body {
   top: 0;
   left: 0;
   background-color: #2b92ce;
+  border: 2px solid black;
   overflow-x: hidden;
   padding-top: 20px;
 }
@@ -89,7 +90,7 @@ section {
   float: left;
   margin: 10px 0 10px 190px;
   width: 80%;
-  border: 5px solid black;
+  border: 3.5px solid black;
   background-color: #bbe5f7; 
   opacity: 0.85;
 }
