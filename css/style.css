@@ -158,6 +158,18 @@ textarea {
   font-family: 'News+Cycle';
   text-align: left;
 }
-  
+/*Survey*/
+.survey a:hover, .survey a:active {
+  background-color: #226993;
+  font-family: 'Merienda';
+}
 
+.survey a:link {
+  background-color: #2b92ce;
+  color: white;
+  padding: 15px 30px;
+  display: inline-block;
+  text-decoration: none;
+}
+  
 
