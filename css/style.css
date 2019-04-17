@@ -139,8 +139,12 @@ textarea {
   width: 45%;
   font-family: 'News+Cycle';
   text-align: left;
-  text-color: grey;
+  color: grey;
   margin: auto;
+}
+
+.contact {
+  align-items: center;
 }
 
 .info {
