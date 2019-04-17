@@ -19,6 +19,7 @@ body {
     margin-top: -6px;
     align: middle;
 }
+/*Navigation*/
 .sidenav {
   height: 78%;
   width: 200px;
@@ -86,7 +87,7 @@ body {
   float: right;
   padding-right: 8px;
 }
-
+/*Body*/
 section {
   float: left;
   margin: 10px 0 10px 190px;
@@ -137,8 +138,9 @@ textarea {
   height: 100px;
   width: 45%;
   font-family: 'News+Cycle';
-  margin-top: 5px;
-  text-align: center;
+  text-align: left;
+  text-color: grey;
+  margin: auto;
 }
 
 .info {
