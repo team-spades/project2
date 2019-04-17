@@ -92,14 +92,14 @@ section {
 }
 
 h1 { 
-  margin: 5px 0 5px 170px;
+  margin: 5px 0 5px 175px;
   float: left;
   font-size: 45px;
   font-family: 'Comfortaa';
 }
 
 h2 {
-  margin: 5px 0 5px 170px;
+  margin: 10px 0 5px 175px;
   float: left;
   font-size: 35px;
   font-family: 'News+Cycle';
@@ -111,6 +111,7 @@ h3 {
   margin-top: 30px;
   font-size: 36px;
 }
+
 /*Form*/
 textarea {
   height: 100px;
@@ -122,5 +123,9 @@ textarea {
 .info {
   margin-top: 5px;
   font-family: 'Merienda';
+}
+
+.contactus {
+  border: 5px double  #2b92ce;
 }
 
