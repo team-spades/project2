@@ -92,14 +92,14 @@ section {
 }
 
 h1 { 
-  margin: 0 30%;
+  margin: 5px 0 5px 50px;
   float: right;
   font-size: 45px;
   font-family: 'Comfortaa';
 }
 
 h2 {
-  margin: 0 45%;
+  margin: 5px 30px 5px;
   float: left;
   font-size: 35px;
   font-family: 'News+Cycle';
