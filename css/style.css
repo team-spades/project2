@@ -87,7 +87,7 @@ body {
 section {
   float: left;
   margin: 10px 0 10px 190px;
-  width: 90%;
+  width: 80%;
   border: 3px solid black;
   background-color: #60b4e5; 
   opacity: 0.85;
@@ -118,6 +118,15 @@ h3 {
   color: black;
 }
 
+h4 {
+  text-align: center;
+  font-family: 'Merienda';
+}
+
+h6 {
+  font-style: italic;
+  text-align: center;
+}
 /*Form*/
 textarea {
   height: 100px;
@@ -131,12 +140,17 @@ textarea {
   font-family: 'News+Cycle';
   color: white;
 }
+
 .intro {
   color: black;
   font-family: 'News+Cycle';
   margin-top: 5px;
 }
 
+.article {
+  margin: auto;
+  font-family: 'News+Cycle';
+}
   
 
 
