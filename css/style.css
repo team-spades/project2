@@ -162,6 +162,7 @@ textarea {
 .survey a:hover, .survey a:active {
   background-color: #226993;
   font-family: 'Merienda';
+  color: black;
 }
 
 .survey a:link {
@@ -170,6 +171,7 @@ textarea {
   padding: 15px 30px;
   display: inline-block;
   text-decoration: none;
+  align:center;
 }
   
 
