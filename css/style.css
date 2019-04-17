@@ -86,9 +86,9 @@ body {
 }
 
 section {
-  float: right;
+  float: left;
   margin: 10px 0 10px 175px;
-  width: 63%;
+  width: 80%;
   border: 5px solid #0a680c;
   background-color: #2b92ce; 
   opacity: 0.85;
