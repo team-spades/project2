@@ -87,7 +87,7 @@ body {
 section {
   float: left;
   margin: 10px 0 10px 190px;
-  width: 80%;
+  width: 86%;
   border: 3px solid black;
   background-color: #60b4e5; 
   opacity: 0.85;
@@ -150,6 +150,7 @@ textarea {
 .article {
   margin: auto;
   font-family: 'News+Cycle';
+  text-align: center;
 }
   
 
