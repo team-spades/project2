@@ -162,12 +162,12 @@ textarea {
 .survey a:hover, .survey a:active {
   background-color: #226993;
   font-family: 'Merienda';
-  color: black;
+  color: silver;
 }
 
 .survey a:link {
   background-color: #2b92ce;
-  color: white;
+  color: black;
   padding: 15px 30px;
   display: inline-block;
   text-decoration: none;
