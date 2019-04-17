@@ -89,6 +89,7 @@ section {
   float: right;
   margin: 0 1.5%;
   width: 63%;
+  border: 5px solid #2b92ce; 
 }
 
 h1 { 
@@ -126,6 +127,6 @@ textarea {
 }
 
 .contactus {
-  border: 5px double  #2b92ce;
+  border: 5px double #2b92ce;
 }
 
