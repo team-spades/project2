@@ -169,10 +169,12 @@ textarea {
 
 ul.intro {
   list-style-type: circle;
+  padding-left: 15px;
 }
 
 ol.intro {
   list-style-type: upper-roman;
+  padding-left: 20px;
 }
 
 .article {
