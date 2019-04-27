@@ -169,6 +169,7 @@ textarea {
 ul.intro {
   list-style-type: circle;
   padding-left: 25px;
+  padding-top: 15px;
 }
 
 ol.intro {
