@@ -227,17 +227,22 @@ body {
     width: 100%;
     height: auto;
     position: relative;
+     
   }
   
   .sidenav a{
     float: left;
   }
 
-.img-logo {
-  height: 25px;
-  width: 25px;
-  float: right;
-}
+  .img-logo {
+    height: 25px;
+    width: 25px;
+    float: right;
+  }
+  
+  main {
+    margin: 0 auto;
+  }
 }
 
 @media only screen and (min-width: 0px) and (max-width: 479px){
