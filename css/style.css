@@ -157,19 +157,18 @@ textarea {
   text-align: center;
 }
 
-
 .intro {
   color: black;
   font-family: 'News+Cycle';
   margin-top: 5px;
   margin-left: 3px;
   margin-right: 3px;
-  padding-left: 10px;
+  padding-left: 15px;
 }
 
 ul.intro {
   list-style-type: circle;
-  padding-left: 15px;
+  padding-left: 25px;
 }
 
 ol.intro {
