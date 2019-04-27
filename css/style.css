@@ -240,17 +240,13 @@ body {
     position: relative;
   }
   
-  main {
-    margin: 0 auto;
-  }
-  
   h1 {
     line height: 3;
     float: left;
   }
   
   section {
-    margin: 0 auto;
+    margin-left: 2px;
     position: relative;
     width: 100%;
     height: auto;
