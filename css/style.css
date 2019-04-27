@@ -198,4 +198,9 @@ ol.intro {
   margin: auto;
 }
   
-
+/*Pictures*/
+.homepics img{
+  border-radius: 20%;
+  height: 250px;
+  width: 250px;
+}
