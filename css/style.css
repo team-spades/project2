@@ -163,9 +163,15 @@ textarea {
   margin-left: 3px;
   margin-right: 3px;
 }
+
 ul.intro {
   list-style-type: circle;
 }
+
+ol.intro {
+  list-style-type: upper-roman;
+}
+
 .article {
   margin-right: 5px;
   margin-top: 5px;
