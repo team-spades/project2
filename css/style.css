@@ -199,10 +199,18 @@ ol.intro {
 }
   
 /*Pictures*/
-.homepics img{
+.homepic1 img{
   border-radius: 20%;
   height: 250px;
   width: 250px;
   float: left;
   padding: 10px;
 }
+.homepic2 img{
+  border-radius: 20%;
+  height: 250px;
+  width: 250px;
+  float: right;
+  padding: 10px;
+}
+
