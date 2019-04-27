@@ -246,7 +246,7 @@ body {
   }
   
   section {
-    margin-left: 2px;
+    margin: 3px 3px 3px 2px;
     position: relative;
     width: 100%;
     height: auto;
