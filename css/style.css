@@ -134,6 +134,7 @@ h4 {
 h6 {
   font-style: italic;
   text-align: center;
+  margin-top: 7px;
 }
 /*Form*/
 textarea {
