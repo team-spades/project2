@@ -246,6 +246,11 @@ body {
   
   h1 {
     line height: 3;
+    float: left;
+  }
+  
+  section {
+    margin: 0 auto;
   }
 }
 
