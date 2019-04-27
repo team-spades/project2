@@ -157,6 +157,10 @@ textarea {
   text-align: center;
 }
 
+p {
+  margin: 0 auto;
+}
+
 .intro {
   color: black;
   font-family: 'News+Cycle';
