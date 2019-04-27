@@ -223,7 +223,7 @@ ol.intro {
 }
 
 @media screen and (max-width: 700px) {
-  .sidebar {
+  .sidenav {
     width: 100%;
     height: auto;
     position: relative;
