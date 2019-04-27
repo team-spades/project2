@@ -235,7 +235,7 @@ body {
 .img-logo {
     width: 50px;
     height: 50px;
-    float: right;
+    float: none;
   }
   h1, h2, h3, h4, h6 {
     text-align: left;
@@ -260,6 +260,6 @@ body {
   }
   section {
     margin: 0 auto;
-    float: left;
+    float: none;
   }
 }
