@@ -223,6 +223,16 @@ body {
   }
 
 @media only screen and (min-width: 480px) and (max-width: 767px){
+   .sidenav {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  
+  .sidenav a{
+    float: left;
+  }
+
 
 }
 
