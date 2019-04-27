@@ -203,4 +203,6 @@ ol.intro {
   border-radius: 20%;
   height: 250px;
   width: 250px;
+  float: left;
+  padding: 10px;
 }
