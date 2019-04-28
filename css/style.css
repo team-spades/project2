@@ -263,5 +263,13 @@ body {
   .sidenav a{
     float: left;
   }
-
+  
+  main {
+    float: left;
+  }
+  
+  section {
+    margin-left: 0px;
+  }
+    
 }
