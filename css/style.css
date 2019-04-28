@@ -220,10 +220,10 @@ body {
     float: right;
     padding: 10px;
   }
-@media only screen and (min-width: 600px) {
-  .sidenav {
+@media only screen and (min-width: 480px) and (max-width: 767px){
+   .sidenav {
     width: 100%;
-    height: auto;
+    height: 20%;
     position: relative;
      
   }
@@ -239,27 +239,29 @@ body {
     position: relative;
   }
   
+  main {
+    margin: 0 auto;
+  }
+  
   h1 {
     line height: 3;
-    
+    float: left;
   }
   
   section {
-    margin: 3px 3px 3px 2px;
-    position: relative;
-    width: 100%;
-    height: auto;
-    
+    margin: 0 auto;
   }
 }
 
-@media only screen and (min-width: 767px){
+@media only screen and (min-width: 0px) and (max-width: 479px){
   .sidenav {
     width: 100%;
     height: auto;
+    position: relative;
   }
   
   .sidenav a{
     float: left;
   }
+
 }
