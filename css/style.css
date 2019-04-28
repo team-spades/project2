@@ -247,9 +247,12 @@ body {
     line height: 3;
     float: left;
   }
+  .intro {
+    font-size: 20px;
+  }
   
   section {
-    margin: 0 auto;
+    width: 755px;
   }
 }
 
@@ -270,6 +273,7 @@ body {
   
   section {
     margin-left: 0px;
+    width: 470px;
   }
     
 }
