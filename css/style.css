@@ -246,13 +246,14 @@ body {
   h1 {
     line height: 3;
     float: left;
+    font-size: 25px;
   }
   .intro {
     font-size: 20px;
   }
   
   section {
-    width: 755px;
+    width: 745px;
   }
 }
 
@@ -279,5 +280,8 @@ body {
   h1 {
     margin-left: 0px;
   }
-    
+  
+  h2 {
+    margin-left: 0px;
+  }
 }
