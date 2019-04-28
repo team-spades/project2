@@ -220,7 +220,7 @@ body {
     float: right;
     padding: 10px;
   }
-@media only screen and (min-width: 0px) and (max-width: 479px){
+@media only screen and (min-width: 600px) {
   .sidenav {
     width: 100%;
     height: auto;
@@ -233,7 +233,7 @@ body {
 
 }
 
-@media only screen and (min-width: 480px) and (max-width: 767px){
+@media only screen and (max-width: 767px){
    .sidenav {
     width: 100%;
     height: auto;
