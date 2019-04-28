@@ -260,6 +260,7 @@ body {
   
   .sidenav a{
     float: left;
+    font-size: 20px
   }
   
   main {
@@ -291,6 +292,7 @@ body {
   
   .sidenav a{
     float: left;
+    font-size: 20px;
   }
 
   .img-logo {
