@@ -220,6 +220,18 @@ body {
     float: right;
     padding: 10px;
   }
+@media only screen and (min-width: 0px) and (max-width: 479px){
+  .sidenav {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  
+  .sidenav a{
+    float: left;
+  }
+
+}
 
 @media only screen and (min-width: 480px) and (max-width: 767px){
    .sidenav {
@@ -252,17 +264,4 @@ body {
     height: auto;
     
   }
-}
-
-@media only screen and (min-width: 0px) and (max-width: 479px){
-  .sidenav {
-    width: 100%;
-    height: auto;
-    position: relative;
-  }
-  
-  .sidenav a{
-    float: left;
-  }
-
 }
