@@ -305,9 +305,13 @@ body {
   }
   
   h1 {
-    line height: 3;
-    float: left;
+    margin-left: 0px;
     font-size: 25px;
+  }
+  
+  h2 {
+    margin-left: 0px;
+    font-size: 15px;
   }
   .intro {
     font-size: 20px;
@@ -315,5 +319,6 @@ body {
   
   section {
     width: 745px;
+    margin-left: 0px
   }
 }
