@@ -220,6 +220,67 @@ body {
     float: right;
     padding: 10px;
   }
+
+@media only screen and (min-width: 0px) and (max-width: 479px){
+  .sidenav {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  
+  .sidenav a{
+    float: left;
+  }
+  
+  main {
+    float: left;
+  }
+  
+  section {
+    margin-left: 0px;
+    width: 470px;
+  }
+  
+  h1 {
+    margin-left: 0px;
+    font-size: 25px;
+  }
+  
+  h2 {
+    margin-left: 0px;
+  }
+}
+
+@media only screen and (min-width: 0px) and (max-width: 479px) and (orientation: portrait){
+  .sidenav {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  
+  .sidenav a{
+    float: left;
+  }
+  
+  main {
+    float: left;
+  }
+  
+  section {
+    margin-left: 0px;
+    width: 470px;
+  }
+  
+  h1 {
+    margin-left: 0px;
+    font-size: 25px;
+  }
+  
+  h2 {
+    margin-left: 0px;
+    font-size: 15px;
+  }
+}
 @media only screen and (min-width: 480px) and (max-width: 767px){
    .sidenav {
     width: 100%;
@@ -254,63 +315,5 @@ body {
   
   section {
     width: 745px;
-  }
-}
-
-@media only screen and (min-width: 0px) and (max-width: 479px){
-  .sidenav {
-    width: 100%;
-    height: auto;
-    position: relative;
-  }
-  
-  .sidenav a{
-    float: left;
-  }
-  
-  main {
-    float: left;
-  }
-  
-  section {
-    margin-left: 0px;
-    width: 470px;
-  }
-  
-  h1 {
-    margin-left: 0px;
-  }
-  
-  h2 {
-    margin-left: 0px;
-  }
-}
-
-@media only screen and (min-width: 0px) and (max-width: 479px) and (orientation: portrait){
-  .sidenav {
-    width: 100%;
-    height: auto;
-    position: relative;
-  }
-  
-  .sidenav a{
-    float: left;
-  }
-  
-  main {
-    float: left;
-  }
-  
-  section {
-    margin-left: 0px;
-    width: 470px;
-  }
-  
-  h1 {
-    margin-left: 0px;
-  }
-  
-  h2 {
-    margin-left: 0px;
   }
 }
