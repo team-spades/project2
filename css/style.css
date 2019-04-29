@@ -132,9 +132,10 @@ h5 {
   font-family: 'News+Cycle';
   text-align: center;
   margin-top: 10px;
-  font-size: 15px;
-  color: black;
+  font-size: 23px;
+  color: white;
   font-weight: bold;
+  text-align: right;
 }
 
 h6 {
