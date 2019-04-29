@@ -129,6 +129,15 @@ h4 {
   margin-top: 5px;
 }
 
+h5 {
+  font-family: 'News+Cycle';
+  text-align: center;
+  margin-top: 10px;
+  font-size: 15px;
+  color: black;
+  font-weight: bold;
+}
+
 h6 {
   text-align: center;
   margin-top: 7px;
@@ -170,6 +179,16 @@ textarea {
   margin-left: 3px;
   margin-right: 3px;
   padding-left: 15px;
+}
+
+.directors {
+  color: black;
+  font-family: 'News+Cycle';
+  margin-top: 5px;
+  margin-left: 3px;
+  margin-right: 3px;
+  padding-left: 15px;
+  font-size: 12px;
 }
 
 ul.intro {
@@ -330,6 +349,7 @@ li.directors {
     margin-left: 0px;
     font-size: 15px;
   }
+  
   .intro {
     font-size: 20px;
   }
