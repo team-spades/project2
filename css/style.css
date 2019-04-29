@@ -184,11 +184,13 @@ ol.intro {
 }
 
 ul.board {
-  list-style-image: url('images/ISUD1.jpg');
+  list-style-image: src('images/ISUD1.jpg');
+  padding-left: 50px;
 }
 
 ul.members {
   list-style-type: circle;
+  padding-left: 40px;
 }
 
 .article {
