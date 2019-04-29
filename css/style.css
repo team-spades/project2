@@ -184,7 +184,7 @@ ol.intro {
 }
 
 ul.board {
-  list-style-image: url('ISUD1.jpg');
+  list-style-image: url('https://static.wixstatic.com/media/80ed71_fa1e21e9f65843cd91dce868c24ee78f.jpg/v1/fill/w_120,h_120,al_c,q_80,usm_0.66_1.00_0.01/80ed71_fa1e21e9f65843cd91dce868c24ee78f.webp');
   padding-left: 50px;
   font-size: 20px;
 }
@@ -225,13 +225,13 @@ ul.members {
   float: left;
   padding: 10px;
 }
-  .homepic2 img{
-    border-radius: 20%;
-    height: 250px;
-    width: 250px;
-    float: right;
-    padding: 10px;
-  }
+.homepic2 img{
+  border-radius: 20%;
+  height: 250px;
+  width: 250px;
+  float: right;
+  padding: 10px;
+}
 
 @media only screen and (min-width: 0px) and (max-width: 479px){
   .sidenav {
