@@ -9,210 +9,218 @@ body {
   text-decoration: none;
   text-align: left;
 }
-  .img-logo {
-    width: 140px;
-    height: 140px;
-    border-radius: 50%;
-    overflow: hidden;
-    margin-top: -6px;
-    align: middle;
-  }
+.img-logo {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: -6px;
+  align: middle;
+}
 /*Navigation*/
-  .sidenav {
-    height: 100%;
-    width: 200px;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: #2b92ce;
-    border: 1px solid black;
-    overflow-x: hidden;
-    padding-top: 20px; 
-    opacity: 0.85;
-  }
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #2b92ce;
+  border: 1px solid black;
+  overflow-x: hidden;
+  padding-top: 20px; 
+  opacity: 0.85;
+}
 
-  .sidenav a, .dropdown-btn {
-    padding: 6px 8px 6px 16px;
-    font-size: 18px;
-    text-decoration: none;
-    color: white;
-    display: block;
-    border: none;
-    background: none;
-    width: 100%;
-    text-align: left;
-    cursor: pointer;
-    outline: none;
-    font-family: 'Merienda';
-  }
+.sidenav a, .dropdown-btn {
+  padding: 6px 8px 6px 16px;
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+  display: block;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+  font-family: 'Merienda';
+}
 
-  .sidenav a:hover {
-    color: black;
-  }
+.sidenav a:hover {
+  color: black;
+}
 
-  .dropdown-btn:hover {
-    color: black;
-  }
+.dropdown-btn:hover {
+  color: black;
+}
 
-  .main {
-    margin-left: 200px; 
-    font-size: 17px; 
-    padding: 0px 10px;
-  }
+.main {
+  margin-left: 200px; 
+  font-size: 17px; 
+  padding: 0px 10px;
+}
 
-  .active {
-    background-color: #226993;
-    color: black;
-    font-family: 'Merienda';
-  }
+.active {
+  background-color: #226993;
+  color: black;
+  font-family: 'Merienda';
+}
 
-  .dropdown-box {
-    display: none;
-    background-color: black;
-    padding-left: 9px;
-  }
+.dropdown-box {
+  display: none;
+  background-color: black;
+  padding-left: 9px;
+}
 
-  .dropdown-box a{
-    color: white;
-  }
+.dropdown-box a{
+  color: white;
+}
 
-  .dropdown-box a:hover{
-    color: #226993;
-  }
+.dropdown-box a:hover{
+  color: #226993;
+}
 
-  .fa-caret-down {
-    float: right;
-    padding-right: 8px;
-  }
+.fa-caret-down {
+  float: right;
+  padding-right: 8px;
+}
 /*Body*/
-  section {
-    float: left;
-    margin: 10px 5px 10px 190px;
-    width: 86%;
-    border: 1px solid black;
-    background-color: #60b4e5; 
-    opacity: 0.77;
-    display: block;
-  }
+section {
+  float: left;
+  margin: 10px 5px 10px 190px;
+  width: 86%;
+  border: 1px solid black;
+  background-color: #60b4e5; 
+  opacity: 0.77;
+  display: block;
+}
 
-  h1 { 
-    margin: 5px 0 5px 180px;
-    float: left;
-    font-size: 45px;
-    font-family: 'Comfortaa';
-    color: white;
-  }
+h1 { 
+  margin: 5px 0 5px 180px;
+  float: left;
+  font-size: 45px;
+  font-family: 'Comfortaa';
+  color: white;
+}
 
-  h2 {
-    margin: 10px 0 5px 190px;
-    float: left;
-    font-size: 28px;
-    font-family: 'Merienda';
-    font-weight: bold;
-    color: black;
-  }
+h2 {
+  margin: 10px 0 5px 190px;
+  float: left;
+  font-size: 28px;
+  font-family: 'Merienda';
+  font-weight: bold;
+  color: black;
+}
 
-  h3 {
-    font-family: 'Merienda';
-    text-align: center;
-    margin-top: 30px;
-    font-size: 25px;
-    color: black;
-    font-weight: bold;
-  }
+h3 {
+  font-family: 'Merienda';
+  text-align: center;
+  margin-top: 30px;
+  font-size: 25px;
+  color: black;
+  font-weight: bold;
+}
 
-  h4 {
-    text-align: center;
-    font-family: 'Merienda';
-    font-weight: bold;
-    margin-top: 5px;
-  }
+h4 {
+  text-align: center;
+  font-family: 'Merienda';
+  font-weight: bold;
+  margin-top: 5px;
+}
 
-  h6 {
-    text-align: center;
-    margin-top: 7px;
-    font-family: 'Merienda';
-    padding-top: 10px;
-  }
+h6 {
+  text-align: center;
+  margin-top: 7px;
+  font-family: 'Merienda';
+  padding-top: 10px;
+}
 /*Form*/
-  textarea {
-    height: 100px;
-    width: 45%;
-    font-family: 'News+Cycle';
-    text-align: left;
-    color: grey;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-  }
+textarea {
+  height: 100px;
+  width: 45%;
+  font-family: 'News+Cycle';
+  text-align: left;
+  color: grey;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
 
-  .contact {
+.contact {
     align-items: center;
-  }
+}
 
-  #sub {
-    margin-left: auto;
-    margin-right: auto;
-  }
+#sub {
+  margin-left: auto;
+  margin-right: auto;
+}
 
-  .info {
-    margin-top: 5px;
-    font-family: 'News+Cycle';
-    color: black;
-    text-align: center;
-  }
+.info {
+  margin-top: 5px;
+  font-family: 'News+Cycle';
+  color: black;
+  text-align: center;
+}
 
-  .intro {
-    color: black;
-    font-family: 'News+Cycle';
-    margin-top: 5px;
-    margin-left: 3px;
-    margin-right: 3px;
-    padding-left: 15px;
-  }
+.intro {
+  color: black;
+  font-family: 'News+Cycle';
+  margin-top: 5px;
+  margin-left: 3px;
+  margin-right: 3px;
+  padding-left: 15px;
+}
 
-  ul.intro {
-    list-style-type: circle;
-    padding-left: 25px;
-    float: left;
-  }
+ul.intro {
+  list-style-type: circle;
+  padding-left: 25px;
+  float: left;
+}
 
-  ol.intro {
-    list-style-type: upper-roman;
-    padding-left: 25px;
-  }
+ol.intro {
+  list-style-type: upper-roman;
+  padding-left: 25px;
+}
 
-  .article {
-    margin-right: 5px;
-    margin-top: 5px;
-    font-family: 'News+Cycle';
-    text-align: left;
-  }
+ul.board {
+  list-style-image: url('images/ISUD1.jpg');
+}
+
+ul.members {
+  list-style-type: circle;
+}
+
+.article {
+  margin-right: 5px;
+  margin-top: 5px;
+  font-family: 'News+Cycle';
+  text-align: left;
+}
 /*Survey*/
-  .survey a:hover, .survey a:active {
-    background-color: #226993;
-    font-family: 'Merienda';
-    color: silver;
-  }
+.survey a:hover, .survey a:active {
+  background-color: #226993;
+  font-family: 'Merienda';
+  color: silver;
+}
 
-  .survey a:link {
-    background-color: #2b92ce;
-    color: black;
-    padding: 15px 30px;
-    display: inline-block;
-    text-decoration: none;
-    margin: auto;
-  }
+.survey a:link {
+  background-color: #2b92ce;
+  color: black;
+  padding: 15px 30px;
+  display: inline-block;
+  text-decoration: none;
+  margin: auto;
+}
   
 /*Pictures*/
-  .homepic1 img{
-    border-radius: 20%;
-    height: 250px;
-    width: 250px;
-    float: left;
-    padding: 10px;
-  }
+.homepic1 img{
+  border-radius: 20%;
+  height: 250px;
+  width: 250px;
+  float: left;
+  padding: 10px;
+}
   .homepic2 img{
     border-radius: 20%;
     height: 250px;
