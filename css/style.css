@@ -194,6 +194,10 @@ ul.members {
   padding-left: 40px;
 }
 
+li.directors {
+  padding-top: 8px;
+}
+
 .article {
   margin-right: 5px;
   margin-top: 5px;
