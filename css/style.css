@@ -132,7 +132,7 @@ h5 {
   font-family: 'News+Cycle';
   text-align: center;
   margin-top: 10px;
-  font-size: 23px;
+  font-size: 25px;
   color: white;
   font-weight: bold;
   text-align: left;
@@ -205,6 +205,16 @@ ul.members {
 
 li.directors {
   padding-top: 8px;
+}
+
+.director {
+  color: black;
+  font-family: 'News+Cycle';
+  margin-top: 5px;
+  margin-left: 3px;
+  margin-right: 3px;
+  padding-left: 15px;
+  font-size: 23px;
 }
 
 .article {
