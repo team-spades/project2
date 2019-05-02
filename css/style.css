@@ -235,21 +235,19 @@ li.directors {
 }
 /*Survey*/
   
-.survey a:hover, .survey a:active {
-  background-color: #226993;
-  font-family: 'Comfortaa';
-  color: silver;
-}
-
-.survey a:link a:visited {
+survey.a:link, survey.a:visited {
   background-color: #2b92ce;
   color: black;
-  padding: 15px 30px;
-  display: block;
+  padding: 14px 25px;
+  text-align: center;
   text-decoration: none;
-  font-family: 'Comfortaa';
+  display: inline-block;
+  margin-left: 20px;
 }
 
+survey.a:hover, survey.a:active {
+  background-color: #226993;
+}
 
 /*Pictures*/
 .homepic1 img{
