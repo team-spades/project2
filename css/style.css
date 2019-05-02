@@ -241,8 +241,8 @@ li.directors {
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
-  margin-left: 20px;
+  display: block;
+  margin-left: 45px;
 }
 
 .survey a:hover, .survey a:active {
