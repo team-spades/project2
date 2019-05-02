@@ -191,7 +191,7 @@ ol.intro {
   list-style-type: upper-roman;
   padding-left: 25px;
 }
-
+/*Congress 18*/
 ol.advice {
   color: black;
   font-family: 'News+Cycle';
@@ -208,8 +208,10 @@ ol.advice {
   width: 250px;
   float: left;
   padding: 5px;
+  display: inline-block;
 }
-  
+
+/*Board and Directors*/
 ul.board {
   padding-left: 50px;
   font-size: 25px;
