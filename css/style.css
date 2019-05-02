@@ -202,6 +202,14 @@ ol.advice {
   list-style-type: circle;
 }
 
+.cong18 img{
+  border-radius: 20%;
+  height: 250px;
+  width: 250px;
+  float: left;
+  padding: 5px;
+}
+  
 ul.board {
   padding-left: 50px;
   font-size: 25px;
