@@ -245,7 +245,7 @@ li.directors {
   background-color: #2b92ce;
   color: black;
   padding: 15px 30px;
-  display: inline-block;
+  display: block;
   text-decoration: none;
   margin-left: 20px;
   font-family: 'Comfortaa';
