@@ -244,15 +244,16 @@ li.directors {
   color: silver;
 }
 
-.survey a:link {
+.survey a:link a:visted {
   background-color: #2b92ce;
   color: black;
   padding: 15px 30px;
   display: inline-block;
   text-decoration: none;
-  margin: auto;
+  margin-left: 20px;
 }
-  
+
+
 /*Pictures*/
 .homepic1 img{
   border-radius: 20%;
