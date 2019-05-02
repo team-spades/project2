@@ -192,6 +192,16 @@ ol.intro {
   padding-left: 25px;
 }
 
+ol.advice {
+  color: black;
+  font-family: 'News+Cycle';
+  margin-top: 5px;
+  margin-left: 3px;
+  margin-right: 3px;
+  padding-left: 15px;
+  list-style-type: circle;
+}
+
 ul.board {
   padding-left: 50px;
   font-size: 25px;
