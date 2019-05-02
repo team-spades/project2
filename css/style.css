@@ -235,7 +235,7 @@ li.directors {
 }
 /*Survey*/
   
-survey.a:link, survey.a:visited {
+.survey a:link, .survey a:visited {
   background-color: #2b92ce;
   color: black;
   padding: 14px 25px;
@@ -245,7 +245,7 @@ survey.a:link, survey.a:visited {
   margin-left: 20px;
 }
 
-survey.a:hover, survey.a:active {
+.survey a:hover, .survey a:active {
   background-color: #226993;
 }
 
