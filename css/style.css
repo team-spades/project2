@@ -234,9 +234,6 @@ li.directors {
   text-align: left;
 }
 /*Survey*/
-.survey {
-  align-items: center;
-}
   
 .survey a:hover, .survey a:active {
   background-color: #226993;
